@@ -20,6 +20,8 @@ Essa aplicação foi construída utilizando Django + Django rest framework para 
 - Instalando python no windows: https://python.org.br/instalacao-windows/
 - Instalando node: https://nodejs.org/pt-br/download/package-manager/ - O NPM será instalado juntamente com o node.
 - Django: https://www.djangoproject.com/
+- React: https://pt-br.reactjs.org/
+- Bootstrap: https://getbootstrap.com/
 - Criando uma aplicação com django:  https://docs.djangoproject.com/pt-br/3.1/intro/tutorial01/
 - Django rest framework: https://www.django-rest-framework.org/
 - Django cors headers: https://pypi.org/project/django-cors-headers/
