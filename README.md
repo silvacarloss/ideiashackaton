@@ -2,7 +2,7 @@
 
 Aplicação criada para registrar localmente as ideias dos participantes para o hackaton.
 
-Essa aplicação foi construída utilizando Django + Django rest framework para a criação do backend e disponibilização das APIs e React para a construção do backend com estilização através do Bootstrap.
+Essa aplicação foi construída utilizando Django + Django rest framework para a criação do backend e disponibilização das APIs e React para a construção do frontend com estilização através do Bootstrap.
 
 ## Setup
 
