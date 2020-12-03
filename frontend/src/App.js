@@ -73,9 +73,6 @@ class App extends Component {
   // requisição GET ao invés de post.
   handleSubmit = item => {
     this.toggle();
-    if (!item.id && (!item.titulo || ! item.descricao)){
-      return;
-    }
     if (item.id) {
       axios
         .put(`http://localhost:8000/ideias/${item.id}/`, item)
