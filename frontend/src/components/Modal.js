@@ -24,6 +24,9 @@ export default class CustomModal extends Component {
     const activeItem = { ...this.state.activeItem, [name]: value };
     this.setState({ activeItem });
   };
+  
+  // Cada componente precisa de sua função render. Ela é o que
+  // Define o que será exibido em cada um dos componentes
   render() {
     const { toggle, onSave } = this.props;
     return (
