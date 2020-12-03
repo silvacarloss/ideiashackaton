@@ -38,7 +38,7 @@ export default class CustomModal extends Component {
                 name="titulo"
                 value={this.state.activeItem.titulo}
                 onChange={this.handleChange}
-                placeholder="Enter Todo Title"
+                placeholder="Título da ideia"
               />
             </FormGroup>
             <FormGroup>
